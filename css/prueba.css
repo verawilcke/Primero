@@ -252,16 +252,14 @@ body {
       background-position: center; }
       body main #indexbody #section-index .index {
         background-color: rgba(228, 236, 250, 0.5);
-        margin: none;
-        margin-left: 0;
-        margin-right: 0; }
+        margin: none; }
         body main #indexbody #section-index .index .index__h1 {
           font-size: 2.5rem; }
           @media (min-width: 600px) {
             body main #indexbody #section-index .index .index__h1 {
               font-size: 3.5rem; } }
-          body main #indexbody #section-index .index .index__h1 .index__h2 {
-            font-weight: 500; }
-            @media (min-width: 600px) {
-              body main #indexbody #section-index .index .index__h1 .index__h2 {
-                font-weight: 400; } }
+        body main #indexbody #section-index .index .index__h2 {
+          font-weight: 500; }
+          @media (min-width: 600px) {
+            body main #indexbody #section-index .index .index__h2 {
+              font-weight: 400; } }
