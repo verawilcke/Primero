@@ -375,12 +375,4 @@ ________________________________________________________________ */
     padding:0;
     margin: 0;
     }
-
-/*Esto lo puse para darme una idea visual de cómo se vería la sección al hacerle click*/
-        #seleccion {background-color: #8989bb;
-        display: flex;
-        flex-wrap: scroll;
-        grid-area:post4}
-
-           #seleccion p{color: #22202b;}
-        }
+    }
